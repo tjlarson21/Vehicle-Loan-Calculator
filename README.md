@@ -11,7 +11,6 @@ using System.Windows.Forms;
 
 /* Project 1 - Amortization App
  * TJ Larson
- * 3/5/2020
  */
 
 namespace MajorProject1
